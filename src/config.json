@@ -1,0 +1,6 @@
+{
+  "backendUrl": "localhost:8081/",
+
+  "name": "NiftyShop",
+  "autoConnect": true
+}
